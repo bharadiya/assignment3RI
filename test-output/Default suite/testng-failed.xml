@@ -6,6 +6,7 @@
       <class name="Test.testonSD">
         <methods>
           <include name="getgreatestPrice"/>
+          <include name="loginToSDemo"/>
           <include name="openandlaunchBrowserURL"/>
         </methods>
       </class> <!-- Test.testonSD -->
